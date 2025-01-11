@@ -1,6 +1,9 @@
 # HandPan
 Official HandPan Repository 2024 (c) Noah Rachdi.
 
+> [!IMPORTANT]
+> Remaining files to be added soon (latest until 04.02.2025).
+
 ## Overview
 This project is an open-source controller built with the Bela board. It includes 3D-printed and laser-cut components, along with custom software written in C++.
 
